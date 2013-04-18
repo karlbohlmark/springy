@@ -1,0 +1,14 @@
+{
+  "name": "springy",
+  "repo": "karlbohlmark/springy",
+  "description": "Force directed layout",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "springy.js",
+  "scripts": [
+    "springy.js"
+  ]
+}
